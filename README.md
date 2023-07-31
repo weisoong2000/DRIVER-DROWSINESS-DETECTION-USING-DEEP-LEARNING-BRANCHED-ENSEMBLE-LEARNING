@@ -2,7 +2,7 @@
 
 ## You can download the dataset and models in the directory /data_or_models/links
 
-## Mobile Application code:
+## Android Studio code:
 ### https://drive.google.com/file/d/158rGlSnrOCy8pRsStG5s42byDW8dnFeM/view?usp=sharing
 
 ## APK File
