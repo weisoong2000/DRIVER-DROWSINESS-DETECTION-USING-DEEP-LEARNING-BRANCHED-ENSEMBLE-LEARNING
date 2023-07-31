@@ -6,4 +6,4 @@
 ### https://drive.google.com/file/d/158rGlSnrOCy8pRsStG5s42byDW8dnFeM/view?usp=sharing
 
 ## APK File
-### https://drive.google.com/drive/folders/1JY2IVRcrTFoLDFirL-2qXUiVYIezxsB9?usp=sharing
+### https://drive.google.com/file/d/1MhgDczX4q7BsxdrYBYRs5nVmddADFrK4/view?usp=sharing
